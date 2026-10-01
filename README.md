@@ -4,7 +4,7 @@ Three Fedora Atomic desktops, on Fedora's own clock.
 
 | | |
 |---|---|
-| **Floatblue** | GNOME on Bluefin DX. Shipping. [repo](https://github.com/floatlabs/floatblue) |
+| **Floatblue** | GNOME on Bluefin DX. Shipping. [repo](https://github.com/float-labs-devel/floatlabs) |
 | **Kifloat** | KDE Plasma on Aurora. Planned, its own repo. |
 | **CoreFloat** | Headless server on uCore. Planned, its own repo. |
 
